@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: url('fundoprogramação.webm');
+  background: url('fundo.jpg');
 }
 
 li{
